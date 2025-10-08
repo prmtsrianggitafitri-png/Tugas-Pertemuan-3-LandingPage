@@ -13,5 +13,5 @@ perubahan pada file `data.txt`.
 
 ## Daftar Konstribusi  
 - Anggota 1 [Memberikan nama di readme dan menambah daftar konstribusi -> memperbarui dan men-commit]
-- Anggota 2 [Menambahkan NIM pada rreadme]
+- Anggota 2 [Menambahkan NIM pada readme]
 - Anggota 3 [Memberikan update pada readme]
