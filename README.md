@@ -6,7 +6,7 @@ Setiap anggota kelompok diminta untuk melakukan
 perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
-- Anggita Fitri Permatasari
+- Anggita Fitri Permatasari - 2405201
 - Zaskia Alya Fadilah
 - Safira Aulia Rahma
 
