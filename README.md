@@ -8,7 +8,7 @@ perubahan pada file `data.txt`.
 ## Anggota Kelompok
 - Anggita Fitri Permatasari - 2405201
 - Zaskia Alya Fadilah
-- Safira Aulia Rahma
+- Safira Aulia Rahma - 2404757
 
 
 ## Daftar Konstribusi  
