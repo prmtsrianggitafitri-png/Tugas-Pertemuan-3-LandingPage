@@ -11,5 +11,5 @@ perubahan pada file `data.txt`.
 - Safira Aulia Rahma
 
 
-#Daftar Konstribusi
-Anggota 1 [Memberikan nama di readme dan menambah daftar konstribusi pada baris 15 -> memperbarui dan men-commit]
+## Daftar Konstribusi  
+- Anggota 1 [Memberikan nama di readme dan menambah daftar konstribusigi -> memperbarui dan men-commit] 
