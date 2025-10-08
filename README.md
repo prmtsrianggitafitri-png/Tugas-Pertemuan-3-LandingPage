@@ -9,3 +9,7 @@ perubahan pada file `data.txt`.
 - Anggita Fitri Permatasari
 - Zaskia Alya Fadilah
 - Safira Aulia Rahma
+
+
+#Daftar Konstribusi
+Anggota 1 [Memberikan nama di readme dan menambah daftar konstribusi pada baris 15 -> memperbarui dan men-commit]
