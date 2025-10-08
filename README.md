@@ -12,4 +12,4 @@ perubahan pada file `data.txt`.
 
 
 ## Daftar Konstribusi  
-- Anggota 1 [Memberikan nama di readme dan menambah daftar konstribusigi -> memperbarui dan men-commit] 
+- Anggota 1 [Memberikan nama di readme dan menambah daftar konstribusi -> memperbarui dan men-commit] 
